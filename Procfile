@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath config_project config.wsgi

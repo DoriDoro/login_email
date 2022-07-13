@@ -1,0 +1,8 @@
+asgiref
+Django==4.0.4
+django-heroku
+django-allauth
+gunicorn
+psycopg2
+python-decouple
+whitenoise
